@@ -1,0 +1,135 @@
+﻿Newsroom,Year,Female_Percent,Direction,Size of Change
+The Village Daily Sun,2018,0.51,Increase,0.2
+The Village Daily Sun,2001,0.31,Increase,0.2
+The Courier Journal,2018,0.43,Increase,0.17
+The Courier Journal,2001,0.26,Increase,0.17
+The Cincinnati Enquirer,2018,0.45,Increase,0.15
+The Cincinnati Enquirer,2001,0.3,Increase,0.15
+Statesman Journal,2018,0.54,Increase,0.14
+Statesman Journal,2001,0.4,Increase,0.14
+The Palm Beach Post,2018,0.47,Increase,0.13
+The Palm Beach Post,2001,0.34,Increase,0.13
+The Washington Post,2018,0.52,Increase,0.13
+The Washington Post,2001,0.39,Increase,0.13
+Arizona Daily Caller,2018,0.49,Increase,0.11
+Arizona Daily Caller,2001,0.38,Increase,0.11
+Houston Chronicle,2018,0.39,Increase,0.1
+Houston Chronicle,2001,0.29,Increase,0.1
+The Herald-Times,2018,0.45,Increase,0.1
+The Herald-Times,2001,0.35,Increase,0.1
+Times Union,2018,0.41,Increase,0.08
+Times Union,2001,0.33,Increase,0.08
+Lansing State Journal,2018,0.45,Increase,0.08
+Lansing State Journal,2001,0.37,Increase,0.08
+The Wall Street,2018,0.47,Increase,0.08
+The Wall Street,2001,0.39,Increase,0.08
+Rochester Democrat and Chronicle,2018,0.43,Increase,0.08
+Rochester Democrat and Chronicle,2001,0.35,Increase,0.08
+Pittsburgh Post-Gazette,2018,0.37,Increase,0.08
+Pittsburgh Post-Gazette,2001,0.29,Increase,0.08
+The Tennessean,2018,0.5,Increase,0.07
+The Tennessean,2001,0.43,Increase,0.07
+Akron Beacon Journal,2018,0.45,Increase,0.07
+Akron Beacon Journal,2001,0.38,Increase,0.07
+Daily Press Media Group,2018,0.48,Increase,0.07
+Daily Press Media Group,2001,0.41,Increase,0.07
+Naples Daily News,2018,0.48,Increase,0.06
+Naples Daily News,2001,0.42,Increase,0.06
+The Clarion Ledger,2018,0.39,Increase,0.05
+The Clarion Ledger,2001,0.34,Increase,0.05
+Bangor Daily News,2018,0.49,Increase,0.05
+Bangor Daily News,2001,0.44,Increase,0.05
+The Sacramento Bee,2018,0.41,Increase,0.05
+The Sacramento Bee,2001,0.36,Increase,0.05
+The State,2018,0.44,Increase,0.05
+The State,2001,0.39,Increase,0.05
+The Morning Call,2018,0.36,Increase,0.05
+The Morning Call,2001,0.31,Increase,0.05
+San Antonio Express-News,2018,0.4,Increase,0.05
+San Antonio Express-News,2001,0.35,Increase,0.05
+Tampa Bay Times,2018,0.4,Increase,0.04
+Tampa Bay Times,2001,0.36,Increase,0.04
+The Dallas Morning News,2018,0.42,Increase,0.04
+The Dallas Morning News,2001,0.38,Increase,0.04
+Corpus Christi Caller-Times,2018,0.48,Increase,0.03
+Corpus Christi Caller-Times,2001,0.45,Increase,0.03
+Victoria Advocate,2018,0.42,Increase,0.03
+Victoria Advocate,2001,0.39,Increase,0.03
+Chicago Tribune,2018,0.38,Increase,0.03
+Chicago Tribune,2001,0.35,Increase,0.03
+The Kansas City Star,2018,0.35,Increase,0.03
+The Kansas City Star,2001,0.32,Increase,0.03
+Albuquerque Journal,2018,0.43,Increase,0.01
+Albuquerque Journal,2001,0.42,Increase,0.01
+St. Louis Post Dispatch,2018,0.36,Increase,0.02
+St. Louis Post Dispatch,2001,0.34,Increase,0.02
+Los Angeles Times,2018,0.4,Increase,0.01
+Los Angeles Times,2001,0.39,Increase,0.01
+The Plain Dealer,2018,0.36,Flat,0
+The Plain Dealer,2001,0.36,Flat,0
+USA Today,2018,0.38,Increase,0.01
+USA Today,2001,0.37,Increase,0.01
+The Commercial Appeal,2018,0.32,Flat,0
+The Commercial Appeal,2001,0.32,Flat,0
+The Knoxville News Sentinel,2018,0.42,Increase,0.01
+The Knoxville News Sentinel,2001,0.41,Increase,0.01
+Milwaukee Journal Sentinel,2018,0.31,Flat,0
+Milwaukee Journal Sentinel,2001,0.31,Flat,0
+The Wichita Eagle,2018,0.43,Decrease,-0.01
+The Wichita Eagle,2001,0.44,Decrease,-0.01
+The News-Press,2018,0.36,Flat,0
+The News-Press,2001,0.36,Flat,0
+Red Wing Republican Eagle,2018,0.44,Decrease,-0.01
+Red Wing Republican Eagle,2001,0.45,Decrease,-0.01
+The Post and Courier,2018,0.45,Decrease,-0.01
+The Post and Courier,2001,0.46,Decrease,-0.01
+The Post-Crescent,2018,0.37,Decrease,-0.01
+The Post-Crescent,2001,0.38,Decrease,-0.01
+Sun-Sentinel,2018,0.38,Decrease,-0.02
+Sun-Sentinel,2001,0.4,Decrease,-0.02
+The Providence Journal,2018,0.27,Decrease,-0.01
+The Providence Journal,2001,0.28,Decrease,-0.01
+Austin American-Statesman,2018,0.4,Decrease,-0.01
+Austin American-Statesman,2001,0.41,Decrease,-0.01
+The Des Moines Register,2018,0.34,Decrease,-0.02
+The Des Moines Register,2001,0.36,Decrease,-0.02
+Detroit Free Press,2018,0.38,Decrease,-0.03
+Detroit Free Press,2001,0.41,Decrease,-0.03
+The Florida Times-Union,2018,0.25,Decrease,-0.04
+The Florida Times-Union,2001,0.29,Decrease,-0.04
+The Detroit News,2018,0.32,Decrease,-0.04
+The Detroit News,2001,0.36,Decrease,-0.04
+Courier Post,2018,0.33,Decrease,-0.04
+Courier Post,2001,0.37,Decrease,-0.04
+The News Tribune,2018,0.31,Decrease,-0.04
+The News Tribune,2001,0.35,Decrease,-0.04
+Orlando Sentinel,2018,0.33,Decrease,-0.04
+Orlando Sentinel,2001,0.37,Decrease,-0.04
+Omaha World-Herald,2018,0.37,Decrease,-0.05
+Omaha World-Herald,2001,0.42,Decrease,-0.05
+Hartford Courant,2018,0.32,Decrease,-0.06
+Hartford Courant,2001,0.38,Decrease,-0.06
+The Charlotte Observer,2018,0.33,Decrease,-0.06
+The Charlotte Observer,2001,0.39,Decrease,-0.06
+The Free Lance Star,2018,0.38,Decrease,-0.07
+The Free Lance Star,2001,0.45,Decrease,-0.07
+Florida Today,2018,0.31,Decrease,-0.07
+Florida Today,2001,0.38,Decrease,-0.07
+Fort Worth Star-Telegram,2018,0.28,Decrease,-0.08
+Fort Worth Star-Telegram,2001,0.36,Decrease,-0.08
+Las Vegas Sun,2018,0.3,Decrease,-0.07
+Las Vegas Sun,2001,0.37,Decrease,-0.07
+York Daily Record,2018,0.3,Decrease,-0.09
+York Daily Record,2001,0.39,Decrease,-0.09
+Lexington Herald-Ledger,2018,0.31,Decrease,-0.09
+Lexington Herald-Ledger,2001,0.4,Decrease,-0.09
+Asbury Park Press,2018,0.37,Decrease,-0.1
+Asbury Park Press,2001,0.47,Decrease,-0.1
+The News & Observer,2018,0.32,Decrease,-0.11
+The News & Observer,2001,0.43,Decrease,-0.11
+Miami Herald,2018,0.3,Decrease,-0.11
+Miami Herald,2001,0.41,Decrease,-0.11
+Journal Star,2018,0.22,Decrease,-0.12
+Journal Star,2001,0.34,Decrease,-0.12
+Pensacola News Journal,2018,0.23,Decrease,-0.15
+Pensacola News Journal,2001,0.38,Decrease,-0.15
